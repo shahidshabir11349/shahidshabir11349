@@ -1,7 +1,8 @@
-### Hi there 👋
+                                                                                        Hi there I am Shahid Shabir👋
+                                                                                    System administrator | Devops engineer
 
-<!--
-**shahidshabir11349/shahidshabir11349** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Experienced System Engineer deploying end-to-end systems having a solid academic background in Computer Science and Telecom Systems and a passion for learning and deploying new technologies. My extensive knowledge and practical experience in system engineering and Networking enable me to bridge the gap between cutting-edge technology and driving business impact. Equipped with a deep understanding of Software Development Processes and System Automation, I am dedicated to delivering high-quality, Strong communication skills with fluency in English.
+
 
 Here are some ideas to get you started:
 
